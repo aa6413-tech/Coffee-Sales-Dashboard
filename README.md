@@ -7,3 +7,14 @@ Develop an interactive coffee shop sales dashboard to help business owners monit
 
 ## Dataset used
 - <a href="https://github.com/aa6413-tech/Coffee-Sales-Dashboard/blob/main/CoffeeSalesDashboard.xlsx">Dataset</a>
+
+## Questions (KPIs)
+- What are the total sales of the selected time period?
+- How have sales changed overtime?
+- which month generates the highest revenue?
+- which coffee type sells the most
+- which roast type generates the most sales?
+- which product generates the highest revenue?
+- How does cup size effect revenue?
+
+- 

@@ -17,4 +17,13 @@ Develop an interactive coffee shop sales dashboard to help business owners monit
 - which product generates the highest revenue?
 - How does cup size effect revenue?
 
--Dashboard interaction <a href="https://github.com/aa6413-tech/Coffee-Sales-Dashboard/blob/main/Dashboard_image.png">View Dashboard</a>
+- Dashboard interaction <a href="https://github.com/aa6413-tech/Coffee-Sales-Dashboard/blob/main/Dashboard_image.png">View Dashboard</a>
+
+## Process
+- Verified data was consisted and clean with respect to data type, data format, and values used.
+- Created pivot tables according to KPI questions.
+- Merged pivot tables into single dashboard and apply sliceres and timeline for dynamic and interactive visuals.
+
+## Dashboard
+<img width="500" height="341" alt="Dashboard_image" src="https://github.com/user-attachments/assets/de29c2bd-0846-4d18-a04c-9442f7d1d382" />
+

@@ -25,5 +25,6 @@ Develop an interactive coffee shop sales dashboard to help business owners monit
 - Merged pivot tables into single dashboard and apply sliceres and timeline for dynamic and interactive visuals.
 
 ## Dashboard
+
 <img width="500" height="341" alt="Dashboard_image" src="https://github.com/user-attachments/assets/de29c2bd-0846-4d18-a04c-9442f7d1d382" />
 

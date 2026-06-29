@@ -28,3 +28,9 @@ Develop an interactive coffee shop sales dashboard to help business owners monit
 
 <img width="500" height="341" alt="Dashboard_image" src="https://github.com/user-attachments/assets/de29c2bd-0846-4d18-a04c-9442f7d1d382" />
 
+## Project insight
+- Light roast type produced the highest revenue across four year timeline.
+- The top three months for overall productiviity are June, March, and April.
+- Highest revenue drink size is 2.5kg
+- 15% increase in revenue when customer have a loyalty card
+

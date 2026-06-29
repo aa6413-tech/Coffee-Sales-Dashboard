@@ -17,4 +17,4 @@ Develop an interactive coffee shop sales dashboard to help business owners monit
 - which product generates the highest revenue?
 - How does cup size effect revenue?
 
-- 
+- <a href="https://github.com/aa6413-tech/Coffee-Sales-Dashboard/blob/main/Dashboard_image.png">View Dashboard</a>

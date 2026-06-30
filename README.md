@@ -9,12 +9,9 @@ Develop an interactive coffee shop sales dashboard to help business owners monit
 - <a href="https://github.com/aa6413-tech/Coffee-Sales-Dashboard/blob/main/CoffeeSalesDashboard.xlsx">Dataset</a>
 
 ## Questions (KPIs)
-- What are the total sales of the selected time period?
 - How have sales changed overtime?
 - which month generates the highest revenue?
-- which coffee type sells the most
 - which roast type generates the most sales?
-- which product generates the highest revenue?
 - How does cup size effect revenue?
 
 - Dashboard interaction <a href="https://github.com/aa6413-tech/Coffee-Sales-Dashboard/blob/main/Dashboard_image.png">View Dashboard</a>
@@ -33,4 +30,7 @@ Develop an interactive coffee shop sales dashboard to help business owners monit
 - The top three months for overall productiviity are June, March, and April.
 - Highest revenue drink size is 2.5kg
 - 15% increase in revenue when customer have a loyalty card
+
+## Final conclusion
+The analysis indicates that revenue growth is driven by customer preferences and seasonal demand. Light roast coffee and the 2.5 kg size are the strongest revenue contributors, while March, April, and June consistently outperform other months in sales. The observed 15% increase in revenue among loyalty card holders also suggests that customer loyalty initiatives may play a meaningful role in increasing repeat purchases and overall revenue.
 
